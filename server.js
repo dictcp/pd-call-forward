@@ -48,6 +48,11 @@ app.post('/voice', (request, response) => {
   })
 });
 
+// health check
+app.get('/_healthz', (request, response) => {
+  response.send('OK');
+})
+
 // Create an HTTP server and listen for requests on port 3000
 app.listen(process.env.PORT || 3000);
 
