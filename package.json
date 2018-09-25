@@ -1,0 +1,12 @@
+{
+  "engines": {
+    "node": "8.x.x"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "moment": "^2.22.2",
+    "node-pagerduty": "^1.0.2",
+    "twilio": "^3.20.0"
+  }
+}
