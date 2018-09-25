@@ -39,6 +39,8 @@ Other similar projects
 - https://github.com/appliscale/telephonist
 - https://github.com/guardian/smooth-operator
 - https://github.com/ajohnstone/autoscale/tree/master/scripts/pager-duty-to-twilio
+- https://github.com/jof/twilio_oncall_redirector
+- https://github.com/dsshafer/phoneduty
 
 
 Reference
