@@ -1,6 +1,8 @@
 PagerDuty Oncall Call Forwarding
 ====
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dictcp/pd-call-forward.svg)](https://greenkeeper.io/)
+
 Leverage on Twilio TwiML and PagerDuty API v2, this small service will forward phone call to on-call engineers.
 
 Installation
